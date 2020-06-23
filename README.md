@@ -2,4 +2,4 @@
 
 A demo app for ongoing Kotlin learnings
 
-![Nice](example.gif)
+<image src="https://github.com/alfonsogoberjr/cardswipe/raw/master/example.gif" width="50%">
